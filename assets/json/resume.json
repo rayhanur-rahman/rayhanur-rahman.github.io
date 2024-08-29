@@ -1,19 +1,26 @@
 {
   "basics": {
     "name": "Md Rayhanur Rahman",
-    "label": "Researher",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "mrahman@ncsu.edu",
+    "email": "mdrayhanur.rahman@ua.edu",
     "phone": "9196497823",
     "url": "https://rayhanur-rahman.github.io",
-    "summary": "Ph.D. Candidate | Software Security | Software Engineering | Cyberthreat Intelligence",
+    "summary": "Assistant Professor | Software Security | Software Engineering | Cyberthreat Intelligence",
     "location": {
-      "city": "Raleigh",
+      "city": "Northport",
       "countryCode": "US",
-      "region": "NC"
+      "region": "AL"
     }
   },
   "work": [
+    {
+      "name": "The University of Alabama",
+      "position": "Assistant Professor",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Joined as an assistant professor at the department of computer science."
+    },
     {
       "name": "NC State University",
       "position": "Graduate Assistant",
