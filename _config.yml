@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Md Rayhanur
 middle_name: 
 last_name: Rahman
-email: mrahman@ncsu.edu
-description: "Ph.D. Candidate | Software Security | Software Engineering | Cyberthreat Intelligence" # the ">" symbol means to ignore newlines until "footer_text:"
+email: mdrayhanur.rahman@ua.edu
+description: "Assistant Professor | Software Security | Software Engineering | Cyberthreat Intelligence" # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: software engineering, software security, cyberthreat intelligence, machine learning, text mining  # add your own keywords or leave empty
 
